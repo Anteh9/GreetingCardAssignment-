@@ -11,12 +11,26 @@ Currently, two official plugins are available:
 
 # Objectives:
 create a greeting card with react and vite
+
+
 install tailwindcss
+
+
 apply git hub for submission
+
+
 # I learned how to:
 learned how to create a project in react
+
+
 how to run a project created by react
+
+
 create components(functions) in react
+
+
 link multiples files in a react project
+
+
 
 
